@@ -1,0 +1,40 @@
+body {
+    background-color: olive;
+    font-family: "Times new Roman";
+}
+
+.main-header {
+    font-size: 100px;
+    color: white;
+    margin: 0px;
+}
+
+.header-background {
+    background-color: darkolivegreen;
+    margin: 0;
+}
+
+.timeBox {
+    background-color: peachpuff;
+    height: 300px;
+}
+
+.carouselName {
+    padding-top: 40px;
+}
+
+.trainInfo {
+    margin: 20px;
+    padding: 5px;
+}
+
+.inputForm {
+    font-family: "times new roman";
+    background-color: peachpuff;
+    margin: 40px;
+    padding: 40px;
+}
+
+.form-title {
+    margin-bottom: 20px;
+}
